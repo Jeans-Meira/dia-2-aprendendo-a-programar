@@ -4,3 +4,4 @@ Profissão Operador de Sistema
 idade 42 anos
 Cidade Curitiba
 País Portugal
+console.log ()
